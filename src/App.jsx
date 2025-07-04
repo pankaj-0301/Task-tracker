@@ -250,18 +250,7 @@ function App() {
                 onClearSearch={() => setSearchTerm('')}
               />
 
-              {/* Results Summary */}
-              {(searchTerm || filter !== 'all' || priorityFilter !== 'all' || categoryFilter !== 'all') && (
-                <div className="mb-6 p-4 bg-blue-50 dark:bg-blue-900/20 rounded-lg border border-blue-200 dark:border-blue-800">
-                  <p className="text-blue-800 dark:text-blue-200 text-sm">
-                    Showing {filteredTasks.length} task{filteredTasks.length !== 1 ? 's' : ''} 
-                    {searchTerm && ` matching "${searchTerm}"`}
-                    {filter !== 'all' && ` • Status: ${filter}`}
-                    {priorityFilter !== 'all' && ` • Priority: ${priorityFilter}`}
-                    {categoryFilter !== 'all' && ` • Category: ${categoryFilter}`}
-                  </p>
-                </div>
-              )}
+           
 
               {/* Task List */}
               <TaskList
