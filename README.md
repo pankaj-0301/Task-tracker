@@ -24,8 +24,8 @@ A modern and responsive task manager built with **React** and **Tailwind CSS**. 
 
 ### Installation Steps
 
-```bash
-# 1. Clone repo
+
+##  1. Clone repo
 git clone <repo-url>
 cd task-tracker
 
