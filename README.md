@@ -46,33 +46,6 @@ React + Vite
 
 Tailwind CSS
 
-## 📁 Project Structure
-
-```
-task-tracker/
-├── public/
-│   └── vite.svg
-├── src/
-│   ├── components/
-│   │   ├── DarkModeToggle.js    
-│   │   ├── Login.js             
-│   │   ├── Modal.js             
-│   │   ├── SearchBar.js        
-│   │   ├── TaskFilter.js        
-│   │   ├── TaskForm.js         
-│   │   ├── TaskItem.js          
-│   │   └── TaskList.js          
-│   ├── utils/
-│   │   └── localStorage.js     
-│   ├── App.js                  
-│   ├── index.css               
-│   └── main.jsx                
-├── index.html
-├── package.json
-├── tailwind.config.js          
-├── vite.config.js            
-└── README.md
-```
 
 ## Live Demo 
 
