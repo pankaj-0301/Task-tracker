@@ -25,11 +25,7 @@ A modern and responsive task manager built with **React** and **Tailwind CSS**. 
 ### Installation Steps
 
 1. Clone repo
-`
-git clone https://github.com/pankaj-0301/Task-tracker.git
-   cd task-tracker
-`
-
+`git clone https://github.com/pankaj-0301/Task-tracker.git`
 
 2. Install dependencies
 `npm install`
@@ -42,8 +38,7 @@ git clone https://github.com/pankaj-0301/Task-tracker.git
 
 
  4. Open your browser
- ```Navigate to [http://localhost:5173/](http://localhost:5173/)
-```
+ `Navigate to http://localhost:5173/`
 
 ##  Technologies Used
 
