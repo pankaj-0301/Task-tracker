@@ -1,6 +1,6 @@
 # Personal Task Tracker
 
-## 📖 Description
+##  Description
 
 A modern and responsive task manager built with **React** and **Tailwind CSS**. Easily add, edit, filter, and organize your tasks with priority, due dates, tags, and dark mode.
 
@@ -24,7 +24,7 @@ A modern and responsive task manager built with **React** and **Tailwind CSS**. 
 
 ### Installation Steps
 
-
+```
 ##  1. Clone repo
 git clone <repo-url>
 cd task-tracker
@@ -38,7 +38,7 @@ npm run dev
 # 4. Open your browser
 Navigate to [http://localhost:5173/](http://localhost:5173/)
 
-
+```
 
 ##  Technologies Used
 
